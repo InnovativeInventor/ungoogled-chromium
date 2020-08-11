@@ -12,7 +12,7 @@ Typically, ungoogled-chromium is built from [code in platform-specific repositor
 
 Before continuing, you may find it helpful to have a look through [the design documentation](design.md).
 
-The following procedure outline the essential steps to build Chromium will all of ungoogled-chromium's features. **They are not sufficient to build ungoogled-chromium on their own**.
+The following procedure outline the essential steps to build Chromium with all of ungoogled-chromium's features. **They are not sufficient to build ungoogled-chromium on their own**.
 
 1. Ensure Chromium is downloaded, such as by `depot_tools`. In most of our supported platforms, we instead use a custom tool to do this.
 
